@@ -1,0 +1,1000 @@
+  770  cd Portfolio/
+  771  ls
+  772  cd ..
+  773  ls
+  774  git add Portfolio/
+  775  git status
+  776  git commit -m "Work in Progress"
+  777  git push -u origin master
+  778  git push origin master
+  779  git push
+  780  ls
+  781  git push origin master
+  782  git remote add origin https://github.com/tebogoditse/Portfolio.git
+  783  git push -u origin master
+  784  google-chrome
+  785  shutdown now
+  786  google-chrome
+  787  touch sum_range.js
+  788  node sum_range.js 
+  789  cd Intermediate\ Algorithm\ Scripting/
+  790  node sum_range.js 
+  791  node diff_two_arrays.js 
+  792  node seek_and_destroy.js 
+  793  cd ..
+  794  ls
+  795  touch sort_array.js
+  796  node sort_array.js 
+  797  cd functional\ Programming/
+  798  node array_sort.js 
+  799  cd ../Intermediate\ Algorithm\ Scripting/
+  800  atom
+  801  shutdown now
+  802  google-chrome
+  803  shutdown now
+  804  atom
+  805  shutdown now
+  806  google-chrome
+  807  atom
+  808  shutdown now
+  809  atom
+  810  shutdown now
+  811  ls
+  812  mv Intermediate\ Algorithm\ Scripting/ Intermediate
+  813  cd Intermediate/
+  814  ls
+  815  cd ..
+  816  ls
+  817  cd ..
+  818  ls
+  819  mv tditse/
+  820  cd tditse/
+  821  ls
+  822  cd ..
+  823  ls
+  824  rm -rf tditse/
+  825  ls
+  826  mv Tebogo\ Ditse/ tditse
+  827  cd tditse/
+  828  ls
+  829  cd Intermediate/
+  830  ls
+  831  atom
+  832  vim array.js
+  833  atom
+  834  google-chrome
+  835  shutdown now
+  836  google-chrome
+  837  shutdown now
+  838  google-chrome
+  839  ls
+  840  cd ..
+  841  ls
+  842  cd Portfolio/
+  843  ls
+  844  cd Portfolio/
+  845  ls
+  846  cd ..
+  847  ls
+  848  cd
+  849  ls
+  850  cd Desktop/tditse/
+  851  ls
+  852  mkdir simple_calculator
+  853  cd simple_calculator/
+  854  ls
+  855  touch add.js
+  856  ls
+  857  node add.js 
+  858  ls
+  859  touch multiply.js
+  860  node multiply.js 
+  861  node add.js 
+  862  node multiply.js 
+  863  atom
+  864  shutdown now
+  865  atom
+  866  shutdown now
+  867  atom
+  868  shutdown -r now
+  869  ls
+  870  cd Pictures/
+  871  ls
+  872  mv Jasmine/ Simple\ Calculator
+  873  ls
+  874  cd Simple\ Calculator/
+  875  ls
+  876  open SpecRunner.html 
+  877  SpecRunner.html 
+  878  ls
+  879  cd ..
+  880  ls
+  881  cd Simple\ Calculator/
+  882  ls
+  883  git clone https://github.com/tebogoditse/Simple-Calculator.git Simple\ Calculator
+  884  ls
+  885  mv * Simple\ Calculator/
+  886  ls
+  887  cd Simple\ Calculator/
+  888  ls
+  889  cd ..
+  890  ls
+  891  git add Simple\ Calculator/
+  892  cd ..
+  893  ls
+  894  cd Simple\ Calculator/
+  895  ls
+  896  cd Simple\ Calculator/
+  897  ls
+  898  git add *
+  899  git status
+  900  ls
+  901  git commit -m "first commit"
+  902  git push origin master
+  903  ls
+  904  google-chrome
+  905  google-chrome
+  906  atom
+  907  ls
+  908  cd Intermediate/
+  909  ls
+  910  touch sum_all_primes.js
+  911  node sum_all_primes.js 
+  912  shutdown now
+  913  ls
+  914  touch check.js
+  915  node check
+  916  ls
+  917  mv check.js check1.js
+  918  touch check2.js
+  919  rm checker.html 
+  920  node check2.js 
+  921  ls
+  922  node check1.js
+  923  node check2.js 
+  924  atom
+  925  ls
+  926  cd Videos/
+  927  LS
+  928  ls
+  929  cd Password\ Checker/
+  930  ls
+  931  cd src/
+  932  ls
+  933  cd ../spec/
+  934  ls
+  935  cd ..
+  936  ls
+  937  cd ..
+  938  ls
+  939  cd Password\ Checker/
+  940  ls
+  941  git clone https://github.com/tebogoditse/Password-Checker.git Password\ Checker
+  942  ls
+  943  mv * Password\ Checker/
+  944  ls
+  945  cd Password\ Checker/
+  946  ls
+  947  cd ..
+  948  ls
+  949  cd ..ls
+  950  cd Password\ Checker
+  951  ls
+  952  git add *
+  953  git status
+  954  git commit -m "passwd checker"
+  955  git push origin master
+  956  shutdown now
+  957  atom
+  958  add-apt-repository ppa:ubuntu-wine/ppa
+  959  sudo su
+  960  google-chrome
+  961  atom
+  962  shutdown now
+  963  google-chrome
+  964  ls
+  965  cd string\ Calculator/
+  966  node str_cal.js 
+  967  cd
+  968  ls
+  969  cd Pictures/String\ Calculator/String\ Calculator/
+  970  ls
+  971  cd src/
+  972  ls
+  973  rm *
+  974  ls
+  975  touch string_calculator.js
+  976  node string_calculator.js 
+  977  cd ../spec/
+  978  ls
+  979  touch stringSpec.js
+  980  node string_calculator.js 
+  981  atom
+  982  shutdown now
+  983  google-chrome
+  984  ls
+  985  cd String\ Calculator/
+  986  ls
+  987  git clone https://github.com/tebogoditse/String-Calculator.git String\ Calculator
+  988  ls
+  989  mv * String\ Calculator/
+  990  ls
+  991  cd String\ Calculator/
+  992  ls
+  993  cd src/
+  994  ls
+  995  rm calculator.js make_sure.js 
+  996  ls
+  997  vim string_calculator.js 
+  998  ls
+  999  vim string_calculator.js 
+ 1000  ls
+ 1001  cd ..
+ 1002  ls
+ 1003  git add *
+ 1004  git status
+ 1005  git commit -m "string calculator"
+ 1006  git push origin master
+ 1007  poweroff 
+ 1008  atom
+ 1009  google-chrome
+ 1010  nohup firefox 
+ 1011  ls
+ 1012  cd Music/
+ 1013  ls
+ 1014  cd Fix/
+ 1015  ls
+ 1016  cd String\ Calculator/
+ 1017  ls
+ 1018  ls -la
+ 1019  ls
+ 1020  git add *
+ 1021  ls
+ 1022  cd src/
+ 1023  ls
+ 1024  cd ..
+ 1025  ls
+ 1026  git add *
+ 1027  git status
+ 1028  git commit -m "str"
+ 1029  git push
+ 1030  ls
+ 1031  git add *
+ 1032  git status
+ 1033  git commit -m "str"
+ 1034  git push
+ 1035  ls
+ 1036  cd
+ 1037  cd Music/Fix/String\ Calculator/
+ 1038  ls
+ 1039  cd src/
+ 1040  ls
+ 1041  node string_calculator.js 
+ 1042  ls
+ 1043  touch calc.js
+ 1044  node calc.js 
+ 1045  node string_calculator.js 
+ 1046  ls
+ 1047  rm calc.js 
+ 1048  ls
+ 1049  node string_calculator.js 
+ 1050  atom
+ 1051  google-chrome
+ 1052  ls
+ 1053  cd Downloads/
+ 1054  ls
+ 1055  cd Hotel\ Rawanda\ \(2008\)/
+ 1056  ls
+ 1057  mplayer Hotel.Rawanda.2008.720p.BrRip.x264.YIFY.mp4 
+ 1058  sudo apt install mplayer
+ 1059  mplayer Hotel.Rawanda.2008.720p.BrRip.x264.YIFY.mp4 
+ 1060  sudo apt install sox
+ 1061  ls
+ 1062  cd ..
+ 1063  ls
+ 1064  cd Mr.\ Fingers/
+ 1065  ls
+ 1066  cd What\ About\ This\ Love_/
+ 1067  ls
+ 1068  play 01\ -\ What\ About\ This\ Love_\ \(Extended\ Version\).mp3 
+ 1069  sudo apt-get install libsox-dev
+ 1070  play 01\ -\ What\ About\ This\ Love_\ \(Extended\ Version\).mp3 
+ 1071  clear
+ 1072  ls
+ 1073  cd 
+ 1074  ls
+ 1075  cd Documents/
+ 1076  ls
+ 1077  cd ..
+ 1078  ls
+ 1079  cd Music/
+ 1080  ls
+ 1081  mkdir Fix
+ 1082  cd Fix/
+ 1083  ls
+ 1084  git clone https://github.com/tebogoditse/String-Calculator.git String\ Calculator
+ 1085  ls
+ 1086  cd String\ Calculator/
+ 1087  ls
+ 1088  cd src/
+ 1089  ls
+ 1090  vim string_calculator.js 
+ 1091  poweroff
+ 1092  google-chrome
+ 1093  atom
+ 1094  sudo add-apt-repository ppa:stebbins/handbrake-releases
+ 1095  sudo apt update
+ 1096  sudo apt-get install handbrake
+ 1097  handbrake
+ 1098  clear
+ 1099  shutdown 0
+ 1100  cd
+ 1101  ls
+ 1102  cd Desktop/tditse/Intermediate/
+ 1103  ls
+ 1104  touch sum_all_primes.js
+ 1105  node sum_all_primes.js 
+ 1106  touch odd_fibonacci_sum.js
+ 1107  node odd_fibonacci_sum.js 
+ 1108  atom
+ 1109  sudo apt-get update
+ 1110  ls
+ 1111  cd cd Downloads/
+ 1112  cd Downloads/
+ 1113  ls
+ 1114  mplayer The.Pianist.2002.BluRay.720p.x264.DTS.WiKi.DualAudio
+ 1115  ls
+ 1116  mplayer Untraceable\ \(2008\)/
+ 1117  ls
+ 1118  mplayer The\ Bone\ Collector\ \(1999\)/
+ 1119  ls
+ 1120  play 01\ -\ Feel\ You\ Coming\ \(Original\ Mix\).mp3 
+ 1121  mplayer Snowtown\ \(2011\)/
+ 1122  sudo apt get install mplayer
+ 1123  sudo apt-get install mplayer
+ 1124  mplayer Snowtown\ \(2011\)/
+ 1125  google-chrome
+ 1126  cd Simple\ Calculator/
+ 1127  ls
+ 1128  node tebza.js 
+ 1129  LS
+ 1130  ls
+ 1131  node tebza.js 
+ 1132  ls
+ 1133  node simple_calculator_p2.js 
+ 1134  node tebza.js 
+ 1135  clear
+ 1136  ls
+ 1137  node cal.js 
+ 1138  ls
+ 1139  mplayer -vo caca Untraceable\ \(2008\)/
+ 1140  cd Untraceable\ \(2008\)/
+ 1141  ls
+ 1142  mplayer -vo caca Untraceable.2008.720p.BluRay.x264.YIFY.mp4 
+ 1143  shutdown now
+ 1144  atom
+ 1145  poweroff 
+ 1146  ls
+ 1147  cd Simple\ Calculator/
+ 1148  ls
+ 1149  node simple_calculator_p2.js 
+ 1150  node cal.js 
+ 1151  google-chrome
+ 1152  pwd
+ 1153  cd Desktop/
+ 1154  ls-la
+ 1155  ls -al
+ 1156  clear
+ 1157  google-chrome
+ 1158  ls
+ 1159  cd work/
+ 1160  ls
+ 1161  cd ..
+ 1162  ls
+ 1163  cd Music/
+ 1164  ls
+ 1165  mkdir SCP1
+ 1166  cd SCP1/
+ 1167  ls
+ 1168  git clone https://github.com/tebogoditse/Simple-Calculator.git re
+ 1169  ls
+ 1170  cd re/
+ 1171  ls
+ 1172  cd spec/
+ 1173  ls
+ 1174  vim addSpec.js 
+ 1175  vim multiplySpec.js 
+ 1176  ls
+ 1177  cd ..
+ 1178  ls
+ 1179  git add *
+ 1180  git status
+ 1181  git commit -m "second-commit"
+ 1182  git push origin master
+ 1183  ls
+ 1184  cd ..
+ 1185  ls
+ 1186  rm -rf re/
+ 1187  ls
+ 1188  git clone https://github.com/tebogoditse/Password-Checker.git re
+ 1189  cd re/
+ 1190  ls
+ 1191  cd src/
+ 1192  ls
+ 1193  vim password_checker.js 
+ 1194  node password_checker.js 
+ 1195  vim password_checker.js 
+ 1196  node password_checker.js 
+ 1197  vim password_checker.js 
+ 1198  node password_checker.js 
+ 1199  vim password_checker.js 
+ 1200  ls
+ 1201  vim password_checker.js 
+ 1202  node password_checker.js 
+ 1203  vim password_checker.js 
+ 1204  ls
+ 1205  cd ..
+ 1206  ls
+ 1207  cd spec/
+ 1208  ls
+ 1209  clear
+ 1210  ls
+ 1211  vim passwordSpec.js 
+ 1212  ls
+ 1213  cd ../src/
+ 1214  vi password_checker.js 
+ 1215  ls
+ 1216  vim experiment.js
+ 1217  node experiment.js 
+ 1218  ls
+ 1219  vi experiment.js 
+ 1220  node experiment.js 
+ 1221  vi experiment.js 
+ 1222  node experiment.js 
+ 1223  vi experiment.js 
+ 1224  node experiment.js 
+ 1225  vi experiment.js 
+ 1226  node experiment.js 
+ 1227  vi experiment.js 
+ 1228  node experiment.js 
+ 1229  vi experiment.js 
+ 1230  node experiment.js 
+ 1231  vi experiment.js 
+ 1232  node experiment.js 
+ 1233  vi experiment.js 
+ 1234  node experiment.js 
+ 1235  vi experiment.js 
+ 1236  atom
+ 1237  ls
+ 1238  vim password_checker.js 
+ 1239  ls
+ 1240  vi experiment.js 
+ 1241  rm experiment.js 
+ 1242  ls
+ 1243  vi password_checker.js 
+ 1244  shutdown now
+ 1245  cd Music/
+ 1246  ls
+ 1247  cd SCP1/
+ 1248  ls
+ 1249  cd re/
+ 1250  ls
+ 1251  vi src/password_checker.js 
+ 1252  ls
+ 1253  git add *
+ 1254  git status
+ 1255  git commit -m "re-submission"
+ 1256  git push origin master
+ 1257  inxi
+ 1258  ls
+ 1259  cd Music/SCP1/re/
+ 1260  ls
+ 1261  cd src/
+ 1262  vim string_calculator.js 
+ 1263  vim ../spec/stringSpec.js 
+ 1264  ls
+ 1265  cd ..
+ 1266  git add *
+ 1267  git status
+ 1268  git commit -m "re"
+ 1269  git push origin master
+ 1270  ls
+ 1271  atom
+ 1272  google-chrome
+ 1273  reboot
+ 1274  shutdown now
+ 1275  cd src/
+ 1276  ls
+ 1277  node simple_calculator_p2.js 
+ 1278  ls
+ 1279  cd ..
+ 1280  ls
+ 1281  git add *
+ 1282  git commit -m "second-commit"
+ 1283  git push origin master
+ 1284  ls
+ 1285  ls
+ 1286  google-chrome
+ 1287  cd Music/SCP1/
+ 1288  ls
+ 1289  rm -rf re/
+ 1290  ls
+ 1291  git clone https://github.com/tebogoditse/Simple-Calculator-Part-2.git re
+ 1292  ls
+ 1293  cd re/
+ 1294  ls
+ 1295  atom
+ 1296  sudo add-apt-repository ppa:nilarimogard/webupd
+ 1297  sudo add-apt-repository ppa:nilarimogard/webupd8
+ 1298  sudo apt update
+ 1299  sudo apt install woeusb
+ 1300  woeusb
+ 1301  sudo add-apt-repository ppa:gezakovacs/ppa
+ 1302  sudo apt update
+ 1303  sudo apt-get install unetbootin
+ 1304  unetbootin
+ 1305  sudo unetbootin
+ 1306  sudo apt-get install fuse
+ 1307  sudo apt install usb-creator-gtk
+ 1308  shutdown now
+ 1309  google-chrome
+ 1310  atom
+ 1311  poweroff 
+ 1312  ls
+ 1313  cd work/
+ 1314  ls
+ 1315  cd ..
+ 1316  ls
+ 1317  cd Templates/
+ 1318  ls
+ 1319  git clone https://github.com/tebogoditse/Portfolio.git port
+ 1320  ls
+ 1321  cd port/
+ 1322  ls
+ 1323  cd Portfolio/
+ 1324  LS
+ 1325  ls
+ 1326  cd Portfolio/
+ 1327  ls
+ 1328  open index.html 
+ 1329  cd
+ 1330  vim isArray.js
+ 1331  node isArray.js 
+ 1332  vim isArray.js
+ 1333  node isArray.js 
+ 1334  vim isArray.js
+ 1335  vim constructors.js
+ 1336  node constructors.js 
+ 1337  vim constructors.js
+ 1338  node constructors.js 
+ 1339  vim constructors.js
+ 1340  node constructors.js 
+ 1341  vim constructors.js
+ 1342  node constructors.js 
+ 1343  shutdown now
+ 1344  atom
+ 1345  google-chrome
+ 1346  atom
+ 1347  man ascii
+ 1348  poweroff 
+ 1349  cd JS\ Projects/
+ 1350  node palindrome_checker.js 
+ 1351  node alt.js 
+ 1352  node palindrome_checker.js 
+ 1353  ls
+ 1354  rm alt.js 
+ 1355  ls
+ 1356  node palindrome_checker.js 
+ 1357  ls
+ 1358  git clone https://github.com/tebogoditse/Palindrome-Checker.git Palindrome\ Checker
+ 1359  ls
+ 1360  git status
+ 1361  ls
+ 1362  mv palindrome_checker.js Palindrome\ Checker/
+ 1363  cd Palindrome\ Checker/
+ 1364  ls
+ 1365  git add palindrome_checker.js 
+ 1366  git status
+ 1367  git commit -m "palindrome-checker"
+ 1368  git push origin master
+ 1369  ls
+ 1370  node palindrome_checker.js 
+ 1371  touch alt.js
+ 1372  node alt.js 
+ 1373  ls
+ 1374  mv palindrome_checker.js ../Palindrome\ Checker/
+ 1375  ls
+ 1376  cd ..
+ 1377  ls
+ 1378  touch caesars_cipher.js
+ 1379  node caesars_cipher.js 
+ 1380  \
+ 1381  node caesars_cipher.js 
+ 1382  atom
+ 1383  sudo apt update
+ 1384  sudo apt install ffmpeg
+ 1385  ffmpeg -version
+ 1386  ls
+ 1387  google-chrome
+ 1388  ffmpeg -i Changeling\(2008\)720p.x264.mkv -sameq Changeling\(2008\)720p.x264.mp4
+ 1389  ffmpeg -i Changeling\(2008\)720p.x264.mkv -qscale 0 Changeling\(2008\)720p.x264.mp4
+ 1390  ls
+ 1391  cd 
+ 1392  ls
+ 1393  ffmpeg -i Changeling\(2008\)720p.x264.mp4 subtitle.srt
+ 1394  ffmpeg -i Changeling\(2008\)720p.x264.mp4 Changeling\(2008\)720p.x264.srt 
+ 1395  poweroff 
+ 1396  google-chrome
+ 1397  sudo add-apt-repository ppa:stebbins/handbrake-release
+ 1398  sudo add-apt-repository ppa:stebbins/handbrake-releases
+ 1399  sudo apt-get update
+ 1400  ls
+ 1401  sudo apt-get install handbrake-cli
+ 1402  handbrake
+ 1403  sudo apt-get install handbrake-gtk
+ 1404  handbrake
+ 1405  clear
+ 1406  ls
+ 1407  shutdown now
+ 1408  atom
+ 1409  poweroff 
+ 1410  ls
+ 1411  cd
+ 1412  ls
+ 1413  mkdir Person
+ 1414  ls
+ 1415  cd Person/
+ 1416  ls
+ 1417  touch person.js
+ 1418  node person.js 
+ 1419  touch person.js
+ 1420  node person.js 
+ 1421  ls
+ 1422  node person.js 
+ 1423  ls
+ 1424  cd ..
+ 1425  ls
+ 1426  cd Music/SCP1/
+ 1427  ls
+ 1428  cd re/
+ 1429  ls
+ 1430  cd src/
+ 1431  ls
+ 1432  node person.js 
+ 1433  ls
+ 1434  cd ..
+ 1435  sl
+ 1436  ls
+ 1437  ls -la
+ 1438  rm -rf .git/
+ 1439  ls
+ 1440  git clone https://github.com/tebogoditse/Person.git Person
+ 1441  ls
+ 1442  mv * Person/
+ 1443  ls
+ 1444  cd Person/
+ 1445  ls
+ 1446  git add *
+ 1447  git status
+ 1448  git commit -m "person"
+ 1449  git push origin master
+ 1450  atom
+ 1451  poweroff 
+ 1452  atom
+ 1453  shutdown now
+ 1454  google-chrome
+ 1455  ls
+ 1456  cd Bank\ Accounts/
+ 1457  ls
+ 1458  cd Part\ 2/
+ 1459  ls
+ 1460  node dup.js 
+ 1461  ls
+ 1462  node real.js 
+ 1463  l
+ 1464  node real.js 
+ 1465  clear
+ 1466  node real.js 
+ 1467  cd
+ 1468  cd Desktop/work/
+ 1469  ls
+ 1470  cd Person/spec/
+ 1471  ls
+ 1472  cd ../src/
+ 1473  ls
+ 1474  node person.js 
+ 1475  ls
+ 1476  cd ..
+ 1477  ls
+ 1478  git add *
+ 1479  git status
+ 1480  git commit -m "person"
+ 1481  git push origin master
+ 1482  git add *
+ 1483  git status
+ 1484  git commit -m "person"
+ 1485  git push origin master
+ 1486  snap install spotify
+ 1487  url -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add -
+ 1488  Curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add -
+ 1489  curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add -
+ 1490  sudo apt-get install curl
+ 1491  ls
+ 1492  clear
+ 1493  ls
+ 1494  cd Downloads/
+ 1495  ls
+ 1496  cd ..'
+ 1497  ls
+ 1498  cd ..
+ 1499  ls
+ 1500  cd Desktop/
+ 1501  ls
+ 1502  cd work/
+ 1503  ls
+ 1504  rm -rf *
+ 1505  ls
+ 1506  git clone https://github.com/tebogoditse/Person.git Person
+ 1507  ls
+ 1508  cd Person/
+ 1509  ls
+ 1510  cd ..
+ 1511  ls
+ 1512  cd ..
+ 1513  ls
+ 1514  cd work/
+ 1515  ls
+ 1516  rm -rf Person/
+ 1517  ls
+ 1518  git clone https://github.com/tebogoditse/Person.git Person
+ 1519  reboot
+ 1520  atom
+ 1521  google-chrome
+ 1522  shutdown now
+ 1523  atom
+ 1524  sudo apt install testdisk
+ 1525  shutdown now
+ 1526  atom
+ 1527  poweroff 
+ 1528  google-chrome
+ 1529  atom
+ 1530  cd Desktop/bank-account-OOP-master/
+ 1531  ls -la
+ 1532  cd ../
+ 1533  ls
+ 1534  rm -rf bank-account-OOP-master/
+ 1535  cd account/
+ 1536  ls -la
+ 1537  atom *
+ 1538  sudo add-apt-repository universe
+ 1539  reboot
+ 1540  ls
+ 1541  cd Bank\ Accounts/
+ 1542  ls
+ 1543  cd Part\ 2/
+ 1544  node real.js 
+ 1545  mv real.js bankAccount.js
+ 1546  node bank.js 
+ 1547  ls
+ 1548  touch bank_max.js
+ 1549  node bank_max.js 
+ 1550  google-chrome
+ 1551  cd Desktop/os/
+ 1552  ls
+ 1553  atom *
+ 1554  ls
+ 1555  cd ..
+ 1556  ls
+ 1557  cd os/
+ 1558  ls
+ 1559  ls -la
+ 1560  ls
+ 1561  git clone https://github.com/tebogoditse/Bank-Accounts.git Bank
+ 1562  ls
+ 1563  mv * Bank/
+ 1564  ls
+ 1565  cd Bank/
+ 1566  ls
+ 1567  git add *
+ 1568  ls
+ 1569  git status
+ 1570  git commit -m "bank"
+ 1571  git push origin master
+ 1572  ls
+ 1573  ls -la
+ 1574  rm -rf .git/ bank.js 
+ 1575  ls
+ 1576  git clone https://github.com/tebogoditse/Bank-Accounts.git Bank
+ 1577  ls
+ 1578  mv * Bank/
+ 1579  ls
+ 1580  cd Bank/
+ 1581  ls
+ 1582  git add * 
+ 1583  git status
+ 1584  git commit -m "bank"
+ 1585  git push origin master
+ 1586  poweroff 
+ 1587  ls
+ 1588  mkdir Bank
+ 1589  cd Bank/
+ 1590  git clone https://github.com/tebogoditse/Bank-Accounts.git Accounts
+ 1591  cd Accounts/
+ 1592  ls
+ 1593  atom *
+ 1594  cd ..
+ 1595  ls
+ 1596  cd ..
+ 1597  ls
+ 1598  mkdir dice
+ 1599  ls
+ 1600  cd dice/
+ 1601  ls
+ 1602  git clone https://github.com/tebogoditse/Dice.git
+ 1603  ls
+ 1604  cd Dice/
+ 1605  ls
+ 1606  atom *
+ 1607  poweroff 
+ 1608  ls
+ 1609  mkdir just
+ 1610  cd just/
+ 1611  touch rot13.js
+ 1612  node rot13.js 
+ 1613  ls
+ 1614  mkdir MEMORY/ GAME
+ 1615  ls
+ 1616  rm -r MEMORY/ GAME/
+ 1617  mkdir MEMORY\ GAME
+ 1618  ls
+ 1619  cd MEMORY\ GAME/
+ 1620  ls
+ 1621  atom *
+ 1622  man ascii
+ 1623  shutdown now
+ 1624  poweroff 
+ 1625  shutdown now
+ 1626  atom memory\ game/
+ 1627  shutdown now
+ 1628  atom memory\ game/
+ 1629  ls
+ 1630  cd ..
+ 1631  ls
+ 1632  cd Desktop/
+ 1633  ls
+ 1634  cd memory\ game/
+ 1635  ls
+ 1636  git clone https://github.com/tebogoditse/Memory-Game.git
+ 1637  ls
+ 1638  mv * Memory-Game/
+ 1639  ls
+ 1640  cd Memory-Game/
+ 1641  ls
+ 1642  git add *
+ 1643  git status
+ 1644  git commit -m "memory-game"
+ 1645  git push origin master
+ 1646  ls
+ 1647  vim script.js 
+ 1648  cd ..
+ 1649  ls
+ 1650  vi test.js
+ 1651  ls
+ 1652  mkdir JavaScript
+ 1653  cd JavaScript/
+ 1654  ls
+ 1655  vim functions.js
+ 1656  node functions.js 
+ 1657  vim functions.js
+ 1658  node functions.js 
+ 1659  vim functions.js
+ 1660  ls
+ 1661  cd ../Memory-Game/
+ 1662  ls
+ 1663  vim style.css 
+ 1664  vi script.js 
+ 1665  cd Desktop/
+ 1666  ls
+ 1667  atom memory\ game/
+ 1668  shutdown now
+ 1669  cd
+ 1670  ls
+ 1671  clear
+ 1672  cat umuzi.md
+ 1673  cat > umuzi.md
+ 1674  cat > recruits.md
+ 1675  cat > cohort.md
+ 1676  ls
+ 1677  pwd
+ 1678  mkdir workspace
+ 1679  cd workspace
+ 1680  ls
+ 1681  touch README.md
+ 1682  cp README.md CHANGELOG.md
+ 1683  ls
+ 1684  touch exercise.md
+ 1685  ls
+ 1686  mkdir /tmp
+ 1687  mv exercise.md /tmp
+ 1688  mv exercise.md /workspace
+ 1689  cd /tmp
+ 1690  rm exercise.md
+ 1691  locate umuzi
+ 1692  locate search_result.md
+ 1693  cd
+ 1694  locate git
+ 1695  sudo apt-get install git
+ 1696  -name .pdf
+ 1697  find -name *.pdf
+ 1698  ..
+ 1699  ./
+ 1700  pwd
+ 1701  cat > pdf files
+ 1702  mkdir pdf
+ 1703  mkdir pdf file
+ 1704  mkdir pdf files
+ 1705  -name * pdf
+ 1706  - name *.pdf
+ 1707  find - name *.pdf
+ 1708  hey please stop using my computer  thanks sipho mduli-
+ 1709  clear
+ 1710  ls
+ 1711  cat pdf
+ 1712  cp {find -name *.pdf} files
+ 1713  cp find -name *.pdf files
+ 1714  find -name *.pdf
+ 1715  find -name *.pdf > files
+ 1716  locate pdf >  files 
+ 1717  locate *.pdf >> files 
+ 1718  locate *.pdf >> files.md
+ 1719  cat files.md
+ 1720  pwd
+ 1721  find . mtime -1 -print
+ 1722  find . mtime -l -print
+ 1723  find . mtime -print
+ 1724  find . -maxdepth 1 -newemt "2019-10-29"
+ 1725  find . -maxdepth 1 -print
+ 1726  find -mtime -print
+ 1727  git log
+ 1728  q
+ 1729  git checkout 7a341768c06a672a311fe381f23e30692d5a709f
+ 1730  git status
+ 1731  git log
+ 1732  cat README.md
+ 1733  git checkout master
+ 1734  git checkout 7a341768c06a672a311fe381f23e30692d5a709f
+ 1735  cat README.md
+ 1736  git checkout master
+ 1737  cat README.md
+ 1738  git branch
+ 1739  git branch milkshake-flavours
+ 1740  git branch
+ 1741  git branch 
+ 1742  git check
+ 1743  git checkout
+ 1744  git branch
+ 1745  git checkin
+ 1746  git checkout milkshake-flavours
+ 1747  git branch
+ 1748  nano milkshakes.md
+ 1749  git status
+ 1750  git log
+ 1751  git commit -m "added initial flavours"
+ 1752  git add Milkshakes.md
+ 1753  git add milkshakes.md
+ 1754  git commit -m "added initial flavours"
+ 1755  git log
+ 1756  git checkout branch
+ 1757  git branch
+ 1758  git checkout master
+ 1759  git log
+ 1760  git branch
+ 1761  nano history
+ 1762  git branch
+ 1763  ls 
+ 1764  ls -a
+ 1765  locate history
+ 1766  git branch history
+ 1767  git branch
+ 1768  git log
+ 1769  history > history.txt
